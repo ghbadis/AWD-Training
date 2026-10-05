@@ -33,7 +33,8 @@ meeting/
 │   ├── app.js                         Express app: JSON, Swagger, routes, 404, errors
 │   ├── config/swagger.js              OpenAPI spec (document new routes here)
 │   ├── routes/meeting.routes.js       URL -> controller mapping
-│   └── controllers/meeting.controller.js   request handling (hello + TODO)
+│   └── controllers/meeting.controller.js
+   request handling (hello + TODO)
 ├── test/hello.test.js
 ├── TODO.md                            work for students
 └── package.json
